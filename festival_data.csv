@@ -1,0 +1,207 @@
+Date,FestivalName,TypeofFestival
+26-01-2019,RepublicDay,National
+10-02-2019,SaraswatiPuja,National
+04-03-2019,MahaShivaratri,State/National
+21-03-2019,Holi,National
+06-04-2019,Ugadi,State
+06-04-2019,Ram Navmi (Day 1),State
+07-04-2019,Ram Navmi (Day 2),State
+08-04-2019,Ram Navmi (Day 3),State
+09-04-2019,Ram Navmi (Day 4),State
+10-04-2019,Ram Navmi (Day 5),State
+11-04-2019,Ram Navmi (Day 6),State
+12-04-2019,Ram Navmi (Day 7),State
+13-04-2019,Ram Navmi (Day 8),State
+14-04-2019,Baisakhi /Ram Navami,State
+15-04-2019,Vishu,State
+17-05-2019,BuddhaPurnima,National
+05-06-2019,Eidal-Fitr,National
+12-08-2019,Bakrid/Eidal-Adha,National
+15-08-2019,IndependenceDay,National
+02-09-2019,GaneshChaturthi,State/National
+10-09-2019,Onam(Day1),State
+11-09-2019,Onam(Day2),State
+12-09-2019,Onam(Day3),State
+13-09-2019,Onam(Day4-Thiruvonam),State
+29-09-2019,Navratri(Day1),State
+30-09-2019,Navratri(Day2),State
+01-10-2019,Navratri(Day3),State
+02-10-2019,Navratri(Day4),State
+03-10-2019,Navratri(Day5),State
+04-10-2019,Navratri(Day6),State
+05-10-2019,Navratri(Day7),State
+06-10-2019,Navratri(Day8),State
+07-10-2019,Navratri(Day9),State
+08-10-2019,Dussehra,National
+25-10-2019,Dhanteras,National
+27-10-2019,Diwali,National
+12-11-2019,GuruNanakJayanti,National
+25-12-2019,Christmas,National/International
+15-01-2020,Pongal(Day1),State
+16-01-2020,Pongal(Day2-MattuPongal),State
+26-01-2020,RepublicDay,National
+29-01-2020,SaraswatiPuja,National
+25-03-2020,Ram Navmi (Day 1),State
+26-03-2020,Ram Navmi (Day 2),State
+27-03-2020,Ram Navmi (Day 3),State
+28-03-2020,Ram Navmi (Day 4),State
+29-03-2020,Ram Navmi (Day 5),State
+30-03-2020,Ram Navmi (Day 6),State
+31-03-2020,Ram Navmi (Day 7),State
+01-04-2020,Ram Navmi (Day 8),State
+02-04-2020,Ram Navmi (Day 9),State
+10-03-2020,Holi,National
+25-05-2020,Eidal-Fitr,National
+01-08-2020,Bakrid/Eidal-Adha,National
+15-08-2020,IndependenceDay,National
+16-10-2020,Navratri(Day1),State
+17-10-2020,Navratri(Day2),State
+18-10-2020,Navratri(Day3),State
+19-10-2020,Navratri(Day4),State
+20-10-2020,Navratri(Day5),State
+21-10-2020,Navratri(Day6),State
+22-10-2020,Navratri(Day7),State
+23-10-2020,Navratri(Day8),State
+24-10-2020,Navratri(Day9),State
+25-10-2020,Dussehra,National
+12-11-2020,Dhanteras,National
+14-11-2020,Diwali,National
+25-12-2020,Christmas,National/International
+13-01-2021,Lohri,State
+14-01-2021,MakarSankranti,State/National
+16-02-2021,SaraswatiPuja,National
+26-01-2021,RepublicDay,National
+29-03-2021,Holi,National
+13-04-2021,GudiPadwa / Ram Navmi,State
+14-04-2021,Ram Navmi (Day 2),State
+15-04-2021,Ram Navmi (Day 3),State
+16-04-2021,Ram Navmi (Day 4),State
+17-04-2021,Ram Navmi (Day 5),State
+18-04-2021,Ram Navmi (Day 6),State
+19-04-2021,Ram Navmi (Day 7),State
+20-04-2021,Ram Navmi (Day 8),State
+21-04-2021,Ram Navmi (Day 9),State
+25-04-2021,MahavirJayanti,National
+13-05-2021,Eidal-Fitr,National
+21-07-2021,Bakrid/Eidal-Adha,National
+15-08-2021,IndependenceDay,National
+06-10-2021,Navratri(Day1),State
+07-10-2021,Navratri(Day2),State
+08-10-2021,Navratri(Day3),State
+09-10-2021,Navratri(Day4),State
+10-10-2021,Navratri(Day5),State
+11-10-2021,Navratri(Day6),State
+12-10-2021,Navratri(Day7),State
+13-10-2021,Navratri(Day8),State
+14-10-2021,Navratri(Day9),State
+15-10-2021,Dussehra,National
+02-11-2021,Dhanteras,National
+04-11-2021,Diwali,National
+25-12-2021,Christmas,National/International
+13-01-2022,Lohri,State
+26-01-2022,RepublicDay,National
+05-02-2022,SaraswatiPuja,National
+18-03-2022,Holi,National
+02-04-2022,Ram Navmi (Day 1),State
+03-04-2022,Ram Navmi (Day 2),State
+04-04-2022,Ram Navmi (Day 3),State
+05-04-2022,Ram Navmi (Day 4),State
+06-04-2022,Ram Navmi (Day 5),State
+07-04-2022,Ram Navmi (Day 6),State
+08-04-2022,Ram Navmi (Day 7),State
+09-04-2022,Ram Navmi (Day 8),State
+10-04-2022,Ram Navmi (Day 9),State
+03-05-2022,Eidal-Fitr,National
+10-07-2022,Bakrid/Eidal-Adha,National
+15-08-2022,IndependenceDay,National
+26-09-2022,Navratri(Day1),State
+27-09-2022,Navratri(Day2),State
+28-09-2022,Navratri(Day3),State
+29-09-2022,Navratri(Day4),State
+30-09-2022,Navratri(Day5),State
+01-11-2022,Navratri(Day6),State
+02-11-2022,Navratri(Day7),State
+03-11-2022,Navratri(Day8),State
+04-11-2022,Navratri(Day9),State
+05-10-2022,Dussehra,National
+22-10-2022,Dhanteras,National
+24-10-2022,Diwali,National
+25-12-2022,Christmas,National/International
+14-01-2023,MakarSankranti,State/National
+26-01-2023,RepublicDay,National
+08-03-2023,Holi,National
+22-03-2023,Ram Navmi (Day 1),State
+23-03-2023,Ram Navmi (Day 2),State
+24-03-2023,Ram Navmi (Day 3),State
+25-03-2023,Ram Navmi (Day 4),State
+26-03-2023,Ram Navmi (Day 5),State
+27-03-2023,Ram Navmi (Day 6),State
+28-03-2023,Ram Navmi (Day 7),State
+29-03-2023,Ram Navmi (Day 8),State
+30-03-2023,Ram Navmi (Day 9),State
+22-04-2023,Eidal-Fitr,National
+29-06-2023,Bakrid/Eidal-Adha,National
+15-08-2023,IndependenceDay,National
+15-10-2023,Navratri(Day1),State
+16-10-2023,Navratri(Day2),State
+17-10-2023,Navratri(Day3),State
+18-10-2023,Navratri(Day4),State
+19-10-2023,Navratri(Day5),State
+20-10-2023,Navratri(Day6),State
+21-10-2023,Navratri(Day7),State
+22-10-2023,Navratri(Day8),State
+23-10-2023,Navratri(Day9),State
+24-10-2023,Dussehra,National
+10-11-2023,Dhanteras,National
+12-11-2023,Diwali,National
+25-12-2023,Christmas,National/International
+14-01-2024,MakarSankranti,State/National
+26-01-2024,RepublicDay,National
+14-02-2024,SaraswatiPuja,National
+25-03-2024,Holi,National
+11-04-2024,GudiPadwa,State
+09-04-2024,Ram Navmi (Day 1),State
+10-04-2024,Ram Navmi (Day 2),State
+11-04-2024,Ram Navmi (Day 3),State
+12-04-2024,Ram Navmi (Day 4),State
+13-04-2024,Ram Navmi (Day 5),State
+14-04-2024,Ram Navmi (Day 6),State
+15-04-2024,Ram Navmi (Day 7),State
+16-04-2024,Ram Navmi (Day 8),State
+17-04-2024,Ram Navmi (Day 9),State
+09-06-2024,Eidal-Fitr,National
+17-07-2024,Bakrid/Eidal-Adha,National
+15-08-2024,IndependenceDay,National
+03-10-2024,Navratri(Day1),State
+04-10-2024,Navratri(Day2),State
+05-10-2024,Navratri(Day3),State
+06-10-2024,Navratri(Day4),State
+07-10-2024,Navratri(Day5),State
+08-10-2024,Navratri(Day6),State
+09-10-2024,Navratri(Day7),State
+10-10-2024,Navratri(Day8),State
+11-10-2024,Navratri(Day9),State
+12-10-2024,Dussehra,National
+29-10-2024,Dhanteras,National
+31-10-2024,Diwali,National
+25-12-2024,Christmas,National/International
+14-01-2025,MakarSankranti,State/National
+26-01-2025,RepublicDay,National
+17-03-2025,Holi,National
+31-03-2025,GudiPadwa,State
+29-05-2025,Eidal-Fitr,National
+06-07-2025,Bakrid/Eidal-Adha,National
+15-08-2025,IndependenceDay,National
+22-09-2025,Navratri(Day1),State
+23-09-2025,Navratri(Day2),State
+24-09-2025,Navratri(Day3),State
+25-09-2025,Navratri(Day4),State
+26-09-2025,Navratri(Day5),State
+27-09-2025,Navratri(Day6),State
+28-09-2025,Navratri(Day7),State
+29-09-2025,Navratri(Day8),State
+30-09-2025,Navratri(Day9),State
+01-10-2025,Dussehra,National
+18-10-2025,Dhanteras,National
+20-10-2025,Diwali,National
+25-12-2025,Christmas,National/International
